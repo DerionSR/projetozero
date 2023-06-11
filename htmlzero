@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>PlayList Rock</title>
+        <style type="text/css">
+        BODY {background-image: url(https://img.freepik.com/vetores-gratis/fundo-do-dia-mundial-do-rock-desenhado-a-mao_23-2149445205.jpg?w=740&t=st=1686446687~exp=1686447287~hmac=36863c82d706c0c016b42bd6517f243a3228a459aaff466cfe26666a8295b766); }
+      .vermelho { color: #f00; text-decoration: underline; text-align: center; }
+      .azul { color: 	#1E90FF; font-weight: bold; }
+       .verde { color: #2e8b57; font-weight: bold; text-align: center; }
+    </style>
+	</head>
+	<body>
+		<h1 class="vermelho">Musicas para Curtir</h1>
+		<h2 class="azul">Rock, de qual voce gosta!!!</h2>
+		<div class="container">
+		<div class="div-video">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/GLRFl26Q92s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        
+       <h3 class="verde">Venha ver do que eu gosto 
+       <a href="https://www.youtube.com/watch?v=GLRFl26Q92s&list=PLXjS-D-5PgQSkvBbhSJxw2lxnyNbaNkS2">DerionSR</a></h3>
+       <img src="https://media.licdn.com/dms/image/C4E03AQFtIIhGLrswvw/profile-displayphoto-shrink_800_800/0/1612264370908?e=2147483647&v=beta&t=WVsksz8xk9dSlHwcsnzW0NMIVJsNYvm0cOUj2qsjaj4"  height="100" width="100">
+
+	</body>
+</html>
